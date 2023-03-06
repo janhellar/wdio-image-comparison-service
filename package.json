@@ -70,7 +70,7 @@
     },
     "dependencies": {
         "@wdio/logger": "^7.19.0",
-        "webdriver-image-comparison": "^1.0.2"
+        "webdriver-image-comparison": "github:janhellar/webdriver-image-comparison#fix-mobile-scroll"
     },
     "repository": {
         "type": "git",
